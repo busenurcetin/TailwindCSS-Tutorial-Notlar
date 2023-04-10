@@ -1,6 +1,6 @@
 # Tailwind CSS- Tutorial Notlar 
 
-	:chains:  TailwindCSS ve Bootstrap arasındaki fark TailwindCSS’in çok daha özelleştirilebilir olmasıdır.
+:chains:  TailwindCSS ve Bootstrap arasındaki fark TailwindCSS’in çok daha özelleştirilebilir olmasıdır.
 
     
  <h3>:link: Kurulum Aşaması</h3>
@@ -9,7 +9,7 @@
 
 :arrow_right:  npm install -D tailwindcss  tailwind css indirir.
  
-    :arrow_right: ``` npx tailwindcss init ``` tailwind.config.js dosyası ekler.
+:arrow_right: ``` npx tailwindcss init ``` tailwind.config.js dosyası ekler.
 
 <h4>  tailwind.config.js Nedir :question: </h4>
 
