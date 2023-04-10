@@ -7,7 +7,7 @@
 
     :arrow_right: Bilgisayarda nodejs yüklüyken vs code’da terminale ```npm init -y ``` yazarsak Package json dosyasını klasörümüze otomatik olarak getirir. Node js versiyon kontrolü yapmak içinse ```npm -v yazmamız``` yeterlidir.
 
-    :arrow_right: ``` npm install -D tailwindcss ``` tailwind css indirir.
+:arrow_right:  npm install -D tailwindcss  tailwind css indirir.
  
     :arrow_right: ``` npx tailwindcss init ``` tailwind.config.js dosyası ekler.
 
