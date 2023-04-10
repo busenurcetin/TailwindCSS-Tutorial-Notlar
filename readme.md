@@ -147,10 +147,3 @@
 :pushpin: Dark mode için 2 strateji izlenebilir birisi class birisi media stratejisi. Class stratejisini kullanmak için yapmamız gereken ilk şey dark mode’u bir class olarak belirtmek. Bunu yapabilmek için tailwind.config.js’in içinde content’in hemen altına  darkMode: 'class', Yazıyoruz. Body’e class olarak dark verdikten sonra dark modu çalıştırmak için body’nin hemen altına bir buton oluşturuyoruz.
 
 :dagger: Umarım tüm bu notlar işinize yarar. Çalışmalarınızda başarılar dilerim. 
-
-
-
-
-                
-
-# TailwindCSS-Tutorial-Notlar
