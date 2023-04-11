@@ -5,7 +5,7 @@
     
  <h3>:link: Kurulum Aşaması</h3>
 
-:arrow_right: Bilgisayarda nodejs yüklüyken vs code’da terminale ```npm init -y ``` yazarsak Package json dosyasını klasörümüze otomatik olarak getirir. Node js versiyon kontrolü yapmak içinse ```npm -v yazmamız``` yeterlidir.
+:arrow_right: Bilgisayarda NodeJS yüklüyken VS Code’da terminale ```npm init -y ``` yazarsak Package Json dosyasını klasörümüze otomatik olarak getirir. Node JS versiyon kontrolü yapmak içinse ```npm -v yazmamız``` yeterlidir.
 
 :arrow_right:  npm install -D tailwindcss  tailwind css indirir.
  
@@ -13,7 +13,7 @@
 
 <h4>  tailwind.config.js Nedir :question: </h4>
 
-:pushpin: Public klasörümdeki dosyaların ve bu dosyaların veya klasörlerin altında bulunan html js dosyalarını content olarak düşünebiliriz. Böylece public’in içindeki index.html’e tailwind kodlarımızı yazabileceğiz.
+:pushpin: Public klasörümdeki dosyaların ve bu dosyaların veya klasörlerin altında bulunan HTML JS dosyalarını content olarak düşünebiliriz. Böylece public’in içindeki index.html’e Tailwind kodlarımızı yazabileceğiz.
 
 <h4> :link: Diğer Notlar </h4>
 
@@ -23,13 +23,13 @@
                  @tailwind components;
                  @tailwind utilities;
                  ```
-            Kodları tailwind içerisindeki base component ve utilities classlarını kullanabileceğimizi gösteriyor.
+            Kodları Tailwind içerisindeki base component ve utilities classlarını kullanabileceğimizi gösteriyor.
 
 :pushpin: Daha sistemli bir çalışma için Visual Studio code’dan live server ve Tailwind CSS IntelliSense kurmamız gerek.
 
 :pushpin: Tekrar projeyi çalıştırmayı kolaylaştırmak için package.json’daki test kısmı yerine ``` "watch": "npx tailwindcss -i ./input.css -o ./public/css/style.css --watch" ``` yazıyoruz. Tekrar projyei çalıştırmak istediğmiz zaman ``` npm run watch ``` yazmamız yeterli olacaktır. Projeden her çıktığımızda 0’dan başlatabilmek için npm run watch komutunu çalıştırmamız gerekiyor.
 
-:pushpin: Bazı fontlar tailwind css’te varsayılandır bunların yanında kendi istediğimiz fontları kullanabilmek için Tailwind.config.js’in içindeki extend kısmının içindeki paranteze :
+:pushpin: Bazı fontlar Tailwind CSS’te varsayılandır bunların yanında kendi istediğimiz fontları kullanabilmek için Tailwind.config.js’in içindeki extend kısmının içindeki paranteze :
 
     ```
              fontFamily:
@@ -112,7 +112,7 @@
                            }
     ```
 
-:pushpin: Tailwind css içinde olmayan farklı spacingler yani uzunluk, büyüklük rem değerleri vermek istiyorsak tailwind.config.js’in içine colorsın hemen altına   
+:pushpin: Tailwind CSS içinde olmayan farklı spacingler yani uzunluk, büyüklük rem değerleri vermek istiyorsak tailwind.config.js’in içine colorsın hemen altına   
 
     ```
                 spacing: {
