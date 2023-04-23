@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/busenurcetin/TailwindCSS-Tutorial-Notlar)
+![GitHub stars](https://img.shields.io/github/stars/busenurcetin/TailwindCSS-Tutorial-Notlar?style=social)
+![GitHub forks](https://img.shields.io/github/forks/busenurcetin/TailwindCSS-Tutorial-Notlar?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/busenurcetin16?style=social)](https://twitter.com/intent/follow?screen_name=busenurcetin16)
+
 # Tailwind CSS- Tutorial Notlar 
 
 :chains:  TailwindCSS ve Bootstrap arasındaki fark TailwindCSS’in çok daha özelleştirilebilir olmasıdır.
